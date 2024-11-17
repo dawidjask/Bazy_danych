@@ -1,0 +1,17 @@
+a) Oracle
+
+DESCRIBE AdventureWorksDW2022.dbo.FactInternetSales;
+
+b) PostgreSQL
+
+SELECT column_name, data_type, character_maximum_length
+
+FROM information_schema.columns
+
+WHERE table_name = 'factinternetsales';
+
+
+
+c) MySQL
+
+SHOW COLUMNS FROM AdventureWorksDW2022.dbo.FactInternetSales;

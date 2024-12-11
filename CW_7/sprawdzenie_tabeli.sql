@@ -1,0 +1,1 @@
+select * from AdventureWorksDW2022.dbo.CSV_Customers order by UPDATE_TIMESTAMP desc, CREATE_TIMESTAMP desc;

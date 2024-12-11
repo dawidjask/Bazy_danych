@@ -1,0 +1,1 @@
+select * from AdventureWorksDW2022.dbo.AUDIT_TABLE;

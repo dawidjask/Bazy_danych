@@ -1,0 +1,17 @@
+2025-01-27 18:35:43 | INFO | Rozpoczęcie pobierania pliku z adresu: http://home.agh.edu.pl/~wsarlej/dyd/bdp2/materialy/cw10/InternetSales_new.zip
+2025-01-27 18:35:44 | SUCCESS | Pomyślnie pobrano plik: InternetSales_new.zip
+2025-01-27 18:35:44 | SUCCESS | Pomyślnie rozpakowano plik ZIP: InternetSales_new.zip
+2025-01-27 18:35:44 | SUCCESS | Pomyślnie usunięto puste wiersze.
+2025-01-27 18:35:44 | SUCCESS | Zawartość kolumny SecretCode została pomyślnie usunięta.
+2025-01-27 18:35:44 | SUCCESS | Usuwanie duplikatów zakończone pomyślnie
+2025-01-27 18:35:44 | SUCCESS | Walidacja liczby kolumn zakończona pomyślnie.
+2025-01-27 18:35:44 | SUCCESS | Filtrowanie dla których kolumna OrderQuantity <=100 , zakończone pomyślnie.
+2025-01-27 18:35:44 | SUCCESS | Usuwanie wierszy z pustymi kolumnami zakończone pomyślnie.
+2025-01-27 18:35:44 | SUCCESS | Przetwarzanie kolumny Customer_Name zakończone pomyślnie.
+2025-01-27 18:35:44 | SUCCESS | Przetwarzanie danych zakończone pomyślnie.
+2025-01-27 18:35:44 | SUCCESS | Zamiana przecinków na kropki w kolumnie UnitPrice zakończona pomyślnie.
+2025-01-27 18:35:45 | SUCCESS | Tabela CUSTOMERS_403167 została pomyślnie utworzona w bazie danych djaskiew.
+2025-01-27 18:35:46 | SUCCESS | Przefiltrowane dane zostały pomyślnie załadowane do tabeli CUSTOMERS_403167.
+2025-01-27 18:35:47 | SUCCESS | Kolumna SecretCode w tabeli CUSTOMERS_403167 została zaktualizowana losowymi stringami o długości 10.
+2025-01-27 18:35:48 | SUCCESS | Tabela CUSTOMERS_403167 została pomyślnie wyeksportowana do pliku /mnt/c/Users/dawid/Desktop/BDP2/CW_10/PROCESSED/CUSTOMERS_403167.csv.
+2025-01-27 18:35:48 | SUCCESS | Plik /mnt/c/Users/dawid/Desktop/BDP2/CW_10/PROCESSED/CUSTOMERS_403167.csv został pomyślnie skompresowany do /mnt/c/Users/dawid/Desktop/BDP2/CW_10/PROCESSED/CUSTOMERS_403167.gz.
